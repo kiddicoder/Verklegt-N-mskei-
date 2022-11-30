@@ -1,0 +1,20 @@
+{
+  "files": {
+    "ui/input_validators.py": [
+      {
+        "id": "1397ba7a-c99e-4feb-8134-0db5090467e1",
+        "line": 40,
+        "version": 561,
+        "index": 744
+      }
+    ],
+    "ui/player_ui.py": [
+      {
+        "id": "8e946a52-d0e5-4e22-ab53-a9c59e367af5",
+        "line": 89,
+        "version": 799,
+        "index": 3433
+      }
+    ]
+  }
+}
